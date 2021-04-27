@@ -1,0 +1,27 @@
+body{
+    background-image: url('/img/mob-store.jpg');
+}
+header{
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+
+    
+}
+#form fieldset{
+    background-color: rgba(211, 211, 211, 0.548);
+    height: 4cm;
+}
+table , tr , th , td {
+    border: 3px solid rgb(39, 39, 39);
+    background-color:rgba(211, 211, 211, 0.548); 
+    
+
+}
+#sub{
+    font-size: larger;
+    font-family:cursive;
+    font-weight: 700;
+    text-align: center;
+    background-color:rgb(39, 39, 39) ;
+}
